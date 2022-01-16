@@ -1,2 +1,2 @@
 # Roulette
-A basic Roulette game, (no GUI)
+A basic Roulette game, (no GUI) not done yetz
